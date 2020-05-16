@@ -1,4 +1,4 @@
-# Curriculum Vitae
+
 
 ## Personal Details  
 **Name:** Fulando da Silva  
