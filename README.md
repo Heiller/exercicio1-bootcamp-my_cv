@@ -34,7 +34,7 @@ and CSS.made with Jekyll, HTML and CSS. made with Jekyll, HTML and CSS. made wit
 HTML and CSS. made with Jekyll, HTML and CSS.
 
 ## Education  
-**2014 - 2018**
+**2014 - 2018**  
 **Technology and Systems for Internet -** IFPB (Federal Institute of Paraíba)
 
 **2009 - 2013 (interrupted)**  
