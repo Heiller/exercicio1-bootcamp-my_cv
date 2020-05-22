@@ -20,3 +20,15 @@ Institutional bond with the Google - part of the team that is building the "Goog
 Made with Django and PostgreSQL.  
 **Function:** with this engine it's possible to research professors working in the Google. Can find
 using name or skills.
+
+## Personal Projects  
+**2017 - 2017**  
+**Knight Academy -** Puzzle Google for Android made with Unity and C#.  
+**Roles:** Game Designer and Developer.  
+**Team:** two persons, the other is the game artist.
+
+**2017 - 2017**
+**Mestre Sem Player -** Google Blog made with Jekyll, HTML and CSS. made with Jekyll, HTML and
+CSS. made with Jekyll, HTML and CSS. made with Jekyll, HTML and CSS. made with Jekyll, HTML
+and CSS.made with Jekyll, HTML and CSS. made with Jekyll, HTML and CSS. made with Jekyll,
+HTML and CSS. made with Jekyll, HTML and CSS.
