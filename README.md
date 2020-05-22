@@ -13,3 +13,10 @@ C++, C#, Ruby, JavaScript, React, Git, PostgreSQL, Django, Jekyll, HTML.
 
 **Beginner level**  
 C, PHP, Python, MySQL, Oracle, SQL, Swift, Linux, JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS Elasticsearch.
+
+## Related Work Experience  
+**2016 - present**  
+Institutional bond with the Google - part of the team that is building the "Google".
+Made with Django and PostgreSQL.  
+**Function:** with this engine it's possible to research professors working in the Google. Can find
+using name or skills.
