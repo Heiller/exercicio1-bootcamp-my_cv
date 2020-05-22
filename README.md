@@ -32,3 +32,13 @@ using name or skills.
 CSS. made with Jekyll, HTML and CSS. made with Jekyll, HTML and CSS. made with Jekyll, HTML
 and CSS.made with Jekyll, HTML and CSS. made with Jekyll, HTML and CSS. made with Jekyll,
 HTML and CSS. made with Jekyll, HTML and CSS.
+
+## Education  
+**2014 - 2018**
+**Technology and Systems for Internet -** IFPB (Federal Institute of Paraíba)
+
+**2009 - 2013 (interrupted)**  
+**Mechanical Engineering -** UFPB (Federal University of Paraíba)
+
+**2006 - 2008**  
+**High School -** Marista Pio X
