@@ -118,3 +118,8 @@ Udemy - USA.
 **2016 - 2016**  
 **Git Complete: The definitive, step-by-step guide to Git (6h)**  
 Udemy - USA.
+
+## Other skills
+
+**Brazilian Portuguese:** native  
+**English:** advanced
