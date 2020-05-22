@@ -42,3 +42,33 @@ HTML and CSS. made with Jekyll, HTML and CSS.
 
 **2006 - 2008**  
 **High School -** Marista Pio X
+
+## Certificates
+
+**2018**  
+**Scrum Fundamentals Certified**  
+SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
+
+**2013**  
+**Empretec (60h)**  
+SEBRAE - RN, Brazil.
+
+**2013**  
+***Motivating and Managing People (15h)**  
+EAD SEBRAE - Brazil.
+
+**2013**  
+**Starting a Small and Big Business (30h)**  
+EAD SEBRAE - Brazil.
+
+**2013**  
+**MEI Micropreneur Individual (5h)**  
+EAD SEBRAE - Brazil.
+
+**2013**  
+**Learn to endeavor (16h)**  
+EAD SEBRAE - Brazil.
+
+**2013**  
+**Web Designer (160h)**  
+SENAC - PB, Brazil.
