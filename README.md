@@ -72,3 +72,49 @@ EAD SEBRAE - Brazil.
 **2013**  
 **Web Designer (160h)**  
 SENAC - PB, Brazil.
+
+## Training
+
+**2018 - 2018**  
+**Algorithmic Problems in Java (7h)**  
+Udemy - USA.
+
+**2018 - 2018**  
+**Scrum - Patterns of Agile Adoption (2h)**  
+Udemy - USA.
+
+**2017 - 2017(interrupted)**  
+**Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)**  
+Udemy - USA.
+
+**2017 - 2017**  
+**Complete Guide to Elasticsearch (11h)**  
+Udemy - USA.
+
+**2017 - 2017 (interrupted)**  
+**Learn to Code by Making Games - Complete C# Unity Developer (52h)**  
+Udemy - USA.
+
+**2017 - 2017**  
+**Introduction to Laravel 5.3 (4h)**  
+Udemy - USA.
+
+**2017 - 2017**  
+**GIMP Beginner to Advanced: Complete Project Based Training (8h)**  
+Udemy - USA.
+
+**2017 - 2017**  
+**The Board Game Developer - Become A Game Design Ninja (6h)**  
+Udemy - USA.
+
+**2017 - 2017**  
+**Create Jekyll blog and host it on Github like a Ninja (2h)**  
+Udemy - USA.
+
+**2016 - 2016**  
+**The Complete SQL Bootcamp (8h)**  
+Udemy - USA.
+
+**2016 - 2016**  
+**Git Complete: The definitive, step-by-step guide to Git (6h)**  
+Udemy - USA.
